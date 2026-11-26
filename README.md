@@ -29,6 +29,8 @@ _Sin IA para escribir código. Solo para pedir explicaciones o pistas._
 
 **Recursos:** [CS50x (Harvard)](https://cs50.harvard.edu/x/) · [Exercism](https://exercism.org/) · [HackerRank](https://www.hackerrank.com/)
 
+📂 **Guía y tareas:** [fase-1/](fase-1/)
+
 **Entregable:** carpeta `fase-1/` con mis ejercicios resueltos y una mini app de consola con clases (ej. gestión de una biblioteca).
 
 ---
@@ -42,6 +44,8 @@ _Sin IA para escribir código. Solo para pedir explicaciones o pistas._
 
 **Recursos:** [SQLBolt](https://sqlbolt.com/) · [Documentación PostgreSQL](https://www.postgresql.org/docs/) · [Learn Git Branching](https://learngitbranching.js.org/?locale=es_ES)
 
+📂 **Guía y tareas:** [fase-2/](fase-2/)
+
 **Entregable:** carpeta `fase-2/` con el diagrama E-R y el script SQL de la base de datos del proyecto final.
 
 ---
@@ -54,11 +58,15 @@ _Reconstruir el proyecto de vinculación, esta vez entendiendo cada línea._
 - [ ] **Semana 11:** backend sencillo conectado a la base de datos (registro de usuarios, medidores, lecturas)
 - [ ] **Semana 12:** cobros/facturación básica, pulir y documentar
 
+📂 **Guía y tareas:** [proyecto-agua-potable/](proyecto-agua-potable/)
+
 **Entregable:** carpeta `proyecto-agua-potable/` funcionando, con su propio README que explique cómo está hecho.
 
 ---
 
 ### 🎨 Blender (fines de semana, opcional)
+
+📂 **Guía:** [blender/](blender/)
 
 - [ ] Tutorial de la dona — Blender Guru (YouTube)
 - [ ] Un modelo propio sencillo (lo que me guste)
